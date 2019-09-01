@@ -45,6 +45,7 @@ section {
  .logoContainer{
   width: 100px;
   height: 60px;
+
   overflow: hidden;
 }
 .logoContainer img{
